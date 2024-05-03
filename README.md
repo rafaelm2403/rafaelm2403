@@ -1,0 +1,42 @@
+### Olá, sou o @Rafaelm2403
+- 👀 Estou interessado em Data Science, Programação, IA e Criação de Jogos.
+- 🌱 Estudando Python 
+- 👇👇 Entre em contato abaixo 📩
+
+<div>
+ <a href="mailto:rafaelmirran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   
+</div>
+
+
+
+# Formação/Conhecimento
+
+- Cursando Engenharia da Computação
+- Conhecimento básico em Arduíno
+- Edição de vídeos
+- Inglês intermediário
+- Pacote Office
+- Windows
+
+
+# Experiência
+
+Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acredito que, com minha dedicação, entusiasmo e disposição para aprender, posso contribuir e crescer em um ambiente de trabalho.
+
+
+# Projetos
+
+- Realizei um projeto no qual foi realizado um chatbot para responder questões acerca do tema Copa do Mundo. Esse foi meu primeiro projeto baseado em IA.
+  <div>
+<a href="https://github.com/rafaelm2403/Botdohexa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+
+  
+</div>
+
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="bye-bye" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NtdWYxcnFtOThxaDR1bjh0ZDk2ZmdhM3o0djMyemNwNHJiNDRwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ca1jBgmOHMkyEmDd/giphy.gif"/>
+
+
+</div>
