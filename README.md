@@ -1,7 +1,8 @@
 ### Olá, sou o @Rafaelm2403
-- 👀 Estou interessado em Data Science, Programação, IA e Criação de Jogos.
+- 👀 Estou interessado em Programação, IA e Criação de Jogos.
 - 🌱 Estudando Python
-- 👇👇 Entre em contato abaixo 📩
+- 📍 Curitiba, Paraná - Brasil
+- 👇 Entre em contato abaixo 📩
 
 <div>
  <a href="mailto:rafaelmirran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
@@ -12,23 +13,23 @@
 
 
 
-# Formação
+# Formação Acadêmica
+       
+- Bacharel em Engenharia da Computação
+ > _Cursando - 5º Período_
 
-- Cursando Engenharia da Computação 
-- Conhecimento básico em Arduíno
-- Edição de vídeos
-- Inglês intermediário
-- Pacote Office
-- Windows
 
 
 
 # Habilidades
+- Arduíno (Básico)
 - Edição de Vídeos
 - Pacote Office
 - Windows
 - Hardware/Montagem de Computadores
   
+
+
 
 # Idiomas
 - Português
