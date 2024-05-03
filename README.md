@@ -1,24 +1,41 @@
 ### Olá, sou o @Rafaelm2403
 - 👀 Estou interessado em Data Science, Programação, IA e Criação de Jogos.
-- 🌱 Estudando Python 
+- 🌱 Estudando Python
 - 👇👇 Entre em contato abaixo 📩
 
 <div>
- <a href="mailto:rafaelmirran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   
+ <a href="mailto:rafaelmirran@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> 
+ <a href="https://api.whatsapp.com/send?phone=5541995836768"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+ <a href="https://t.me/+5541995836768"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+  
 </div>
 
 
 
-# Formação/Conhecimento
+# Formação
 
-- Cursando Engenharia da Computação
+- Cursando Engenharia da Computação 
 - Conhecimento básico em Arduíno
 - Edição de vídeos
 - Inglês intermediário
 - Pacote Office
 - Windows
 
+
+
+# Habilidades
+- Edição de Vídeos
+- Pacote Office
+- Windows
+- Hardware/Montagem de Computadores
+  
+
+# Idiomas
+- Português
+- Espanhol
+- Inglês intermediário
+
+  
 
 # Experiência
 
