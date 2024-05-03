@@ -45,7 +45,7 @@ Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acred
 
 # Projetos
 
-- Realizei um projeto no qual foi realizado um chatbot para responder questões acerca do tema Copa do Mundo. Esse foi meu primeiro projeto baseado em IA.
+- Realizei um projeto no qual foi elaborado um chatbot para responder questões acerca do tema Copa do Mundo. Esse foi meu primeiro projeto, feito durante a graduação em Engenharia da Computação.
   <div>
 <a href="https://github.com/rafaelm2403/Botdohexa"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 
