@@ -40,7 +40,7 @@
 
 # Experiência
 
-Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acredito que, com minha dedicação, entusiasmo e disposição para aprender, posso contribuir e crescer em um ambiente de trabalho.
+Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acredito que, com minha dedicação, entusiasmo e disposição para aprender, posso contribuir e evoluir em um ambiente de trabalho.
 
 
 # Projetos
