@@ -16,7 +16,7 @@
 # Formação Acadêmica
        
 - Bacharel em Engenharia da Computação
- > _Cursando - 5º Período_
+ > _Cursando - 6º Período_
 
 
 
