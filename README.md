@@ -16,13 +16,16 @@
 # Formação Acadêmica
        
 - Bacharel em Engenharia da Computação
- > _Cursando - 6º Período_
+ > _Cursando - 8º Período_
 
 
 
 
 # Habilidades
-- Arduíno (Básico)
+- Python
+- CSS
+- HTML
+- Flutter
 - Edição de Vídeos
 - Pacote Office
 - Windows
