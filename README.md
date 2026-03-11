@@ -24,7 +24,7 @@
 # Habilidades
 - Python
 - CSS
-- HTML
+- HTM
 - Flutter
 - Edição de Vídeos
 - Pacote Office
@@ -50,6 +50,6 @@ Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acred
 - Realizei um projeto no qual foi elaborado um chatbot para responder questões acerca do tema Copa do Mundo. Esse foi meu primeiro projeto, feito durante a graduação em Engenharia da Computação.
   <div>
   
-
+<a href="https://github.com/rafaelm2403/TelegBot"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   
 </div>
