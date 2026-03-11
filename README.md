@@ -1,6 +1,7 @@
 ### Olá, sou o @Rafaelm2403
 - 👀 Estou interessado em Programação, IA e Desenvolvimento Mobile.
-- 🌱 Estudando Atualmente: Flutter, Dart e Power BI 
+- 🌱 Estudando Atualmente: Flutter, Dart e Power BI
+- 📖 Portuguese, English and Spanish 
 - 📍 Curitiba, Paraná - Brasil
 - 👇 Entre em contato abaixo 📩
 
