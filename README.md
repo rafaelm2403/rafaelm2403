@@ -1,6 +1,6 @@
 ### Olá, sou o @Rafaelm2403
-- 👀 Estou interessado em Programação, IA e Criação de Jogos.
-- 🌱 Estudando Python
+- 👀 Estou interessado em Programação, IA e Desenvolvimento Mobile.
+- 🌱 Estudando Atualmente: Flutter, Dart e Power BI 
 - 📍 Curitiba, Paraná - Brasil
 - 👇 Entre em contato abaixo 📩
 
@@ -52,11 +52,4 @@ Atualmente busco ingressar pela minha primeira vez no mercado de trabalho. Acred
   
 
   
-</div>
-
-<div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="bye-bye" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3NtdWYxcnFtOThxaDR1bjh0ZDk2ZmdhM3o0djMyemNwNHJiNDRwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P3ca1jBgmOHMkyEmDd/giphy.gif"/>
-
-
 </div>
